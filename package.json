@@ -50,3 +50,6 @@
     "README.md"
   ]
 }
+  "scripts": {
+    "railway-build": "npm install"
+  },
